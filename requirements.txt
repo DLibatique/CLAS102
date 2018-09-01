@@ -1,0 +1,10 @@
+certifi==2018.8.24
+chardet==3.0.4
+idna==2.7
+oauthlib==2.1.0
+requests==2.19.1
+requests-oauthlib==1.0.0
+threader==0.1.1
+tqdm==4.25.0
+TwitterAPI==2.5.4
+urllib3==1.23
