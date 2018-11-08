@@ -13,10 +13,10 @@ You will have two major assignments, each worth 15% of your final grade, as part
 
 Due date: Tuesday, October 23, at the beginning of class.
 
-Guidelines [here](https://github.com/dlibatique/CLAS102/blob/master/files/paper_1.pdf).
+Guidelines [here](https://dlibatique.github.io/CLAS102/files/paper_1.pdf).
 
 ### Guidelines for Final Essay or Project
 
 Due date: Tuesday, December 11, by 5pm.
 
-Guidelines [here](../files/final_project.pdf).
+Guidelines [here](https://dlibatique.github.io/CLAS102/files/final_project.pdf).
